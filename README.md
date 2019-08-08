@@ -12,6 +12,7 @@ Métodos para actuar con ficheros locales y externos en Java  Versión 0.0.9
  */
 
 Método para guardar un boolean en un archivo de forma sincronizada
+
 Método para guardar un int en un archivo de forma sincronizada
 Método para guardar un Object en un archivo de forma sincronizada un
     * Object debe ser un Objeto que implemente la clase Serializable
