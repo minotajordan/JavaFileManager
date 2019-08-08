@@ -56,8 +56,8 @@ Método para cargar un float de un archivo de forma sincronizada
 
 Método para cargar un double de un archivo de forma sincronizada
 
-Método para cargar un String de un archivo binario UTF de forma
-     * sincronizada
+Método para cargar un String de un archivo binario UTF de forma sincronizada
+
 Método para cargar un boolean de un archivo de forma sincronizada
 
 Método para cargar un Object de un archivo de forma sincronizada un
@@ -72,8 +72,7 @@ Método que sirve para copiar un archivo desde una ruta otra nueva ruta de
 Método para guardar un archivo proveniente de un InputStrean de entrada
 * de forma sincronizada
      
-Método para guardar un archivo que se encuentra en una url de forma
-* sincronizada
+Método para guardar un archivo que se encuentra en una url de forma sincronizada
      
 Método que se utiliza para eliminar un fichero o directorio
 
